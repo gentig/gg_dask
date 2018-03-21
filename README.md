@@ -123,3 +123,10 @@ spread across your cluster.
 
 8. [Dataframe Storage](08_dataframe_storage.ipynb) - efficient ways to read and write
 dataframes to disc.
+
+## Run it after the setup
+Go to dask-tutorial repo folder and run: jupyter notebook
+Some more configurations need to be setup and on the next
+screen we have to press Ctrl+Q and then copy the url on the screen
+with a security string to the browser and you can start using the available
+notebooks for testing.
